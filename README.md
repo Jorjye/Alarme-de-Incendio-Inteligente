@@ -1,6 +1,6 @@
 # Alarme-de-Incêndio-Inteligente
 
-Grupo:  
+**Grupo:**  
 AUGUSTO CESAR NASCIMENTO DE VASCONCELOS PRATA  
 AYRTON LUCENA VELICHAN  
 GIOVANNI FERREIRA REIS  
