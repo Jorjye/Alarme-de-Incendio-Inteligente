@@ -17,3 +17,5 @@ PDF:
 [O arquvio atual do TCC (será atualizado com o segmento do projeto)](TCC.pdf)  
   
 [Lista de materiais e recursos](Lista%20de%20materiais%20e%20recursos.pdf)  
+
+[Fluxograma](Fluxograma.pdf)
