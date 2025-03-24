@@ -11,8 +11,6 @@ WENDDIER RAIKONNI BUENO
 
 Este trabalho propõe o desenvolvimento de um sistema de detecção de incêndio inteligente, utilizando sensores de temperatura e fumaça, com alertas sonoros, visuais e envio de mensagens para usuários cadastrados.  
   
-  
-  
 PDF:  
   
 [Uma apresentação mais detalhada sobre o projeto](APRESENTAÇÃO%20TCC.pdf)  
