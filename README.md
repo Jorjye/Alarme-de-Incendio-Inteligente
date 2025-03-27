@@ -15,7 +15,7 @@ PDF:
   
 [Uma apresentação mais detalhada sobre o projeto](APRESENTAÇÃO%20TCC.pdf)  
   
-[O arquvio atual do TCC (será atualizado com o segmento do projeto)](TCC.pdf)  
+[O arquivo atual do TCC (será atualizado com o segmento do projeto)](TCC.pdf)  
   
 [Lista de materiais e recursos](Lista%20de%20materiais%20e%20recursos.pdf)  
 
